@@ -22,8 +22,8 @@ This Privacy Policy assumes, amongst other things, that your business:
 2. will be collecting email addresses, names, images, usernames, and other personal information about your users;
 3. will be collecting information gathered about financial transactions;
 4. will be collecting statistics about use, cookies, identifiers, and other general technical information revealed by a user's hardware or software;
-5. you will **not** be collecting medical information or health information; 
-6. you will **not** be taking out credit reports on your users;
+5. will **not** be collecting medical information or health information; 
+6. will **not** be taking out credit reports on your users;
 
 ## How this document works
 
