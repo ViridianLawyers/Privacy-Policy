@@ -2,9 +2,9 @@
 
 1. ### General
 
-	1. The following Privacy Policy applies to the products and services provided by [[Full Entity Name]] ([[ABN OR ACN]]). 
+	1. The following Privacy Policy applies to the products and services provided by [[Full Entity Name]] [[ABN OR ACN]]. 
 
-	2. In this policy, the words ‘we’, ‘our’, ‘us’, ‘[[Business Name]]’ and ‘Site’ refer to [[Website URL]], any [[Business Name]] software or web based application and [[Full Entity Name]] ([[ABN OR ACN]]) and all of its related entities. This Privacy Policy applies to and should be read in conjunction with the Terms of Use & Service (collectively, the ‘Agreement’), which are available on [[Website URL]].
+	2. In this policy, the words ‘we’, ‘our’, ‘us’, ‘[[Business Name]]’ and ‘Site’ refer to [[Website URL]], any [[Business Name]] software or web based application and [[Full Entity Name]] [[ABN OR ACN]] and all of its related entities. This Privacy Policy applies to and should be read in conjunction with the Terms of Use & Service (collectively, the ‘Agreement’), which are available on [[Website URL]].
 	
 	3. We are entitled, at our sole discretion, to amend, add or remove any part of this Privacy Policy at any time. You should review this Privacy Policy from time to time to ensure that you are up to date with any such amendments, additions or removals.
 
