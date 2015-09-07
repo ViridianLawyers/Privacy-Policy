@@ -12,7 +12,7 @@
 
 	1. We recognise the importance of protecting the privacy of personal, medical and financial information. We employ strict policies and security measures to protect the information you provide us. 
 	
-	2. When you register with us, use [[Business Name]] or the App, or provide us with your personal information, you give us consent to process and use such submitted personal data in accordance with this Privacy Policy. 
+	2. When you register with us, use [[Business Name]], or provide us with your personal information, you give us consent to process and use such submitted personal data in accordance with this Privacy Policy. 
 	
 	3. This privacy policy applies to all protected personal information collected, maintained or used by Us.
 
