@@ -66,7 +66,7 @@
 
 	2. We may use the information we collect through your use of our services to:
 		
-		1. measure the use of [[Business Name]] and to administer and improve [[Business Name]]. This statistical data is interpreted by We in its continuing effort to improve [[Business Name]] and your shopping experience.
+		1. measure the use of [[Business Name]] and to administer and improve [[Business Name]]. We interpret this statistical data in our continuing effort to improve [[Business Name]] and your user experience.
 		
 		2. gather information on which web pages are visited and how often, to make [[Business Name]] more user friendly, and to give you a better experience when you return to [[Business Name]]. 
 
