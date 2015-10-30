@@ -92,7 +92,7 @@
 	
 	3. When making payments using our services, or receiving payments using our services, your financial details are passed through a secure server using industry standard encryption technology.
 	
-	4. We use industry standard encryption technology to transmit and encrypt all credit information in our possession.
+	4. We use industry standard encryption technology to transmit and encrypt all financial and payment information in our possession.
 
 6. ### Accuracy And Retention
 
