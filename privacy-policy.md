@@ -72,13 +72,13 @@
 
 	3. We may combine the information you give to us directly with the information we collect through your use of our service.
 	
-	4. We may from time to time supply the owners or operators of third party websites from which it is possible to link to We with information relating to the number of users accessing [[Business Name]] from such third party websites. You will not personally be identifiable from this information.
+	4. We may from time to time supply the owners or operators of third party websites from which it is possible to link to [[Business Name]] with information relating to the number of users accessing [[Business Name]] from such third party websites. You will not personally be identifiable from this information.
 	
 	5. In delivering our products or collecting and using your personal information, we may be required to disclose some of your personal information to third party organisations, including external service providers; our legal, accounting, financial or other professional advisors; and regulatory or government authorities as required by law.
 
 5. ### Security
 
-	1. We uses a number of security measures to protect the information you provide to us.
+	1. We use a number of security measures to protect the information you provide to us.
 	
 	2. We protect your personal information by:
 		
