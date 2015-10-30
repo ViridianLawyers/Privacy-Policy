@@ -108,4 +108,4 @@
 
 9. ### Further Information
 
-	1. For more information regarding privacy issues in Australia, please visit the Australian Federal Privacy Commissioner's website at www.privacy.gov.au.
+	1. For more information regarding privacy issues in Australia, please visit the Office of the Australian Information Commissioner’s website at www.privacy.gov.au.
