@@ -24,7 +24,7 @@
 	
 		1. Information you give to us directly. This includes:
 		
-			1. Information about you. This might include your name, email address, first name, surname and address, and may also include photographs that you provide to us, your username or any other information required list and register you or your business on [[Business Name]];
+			1. Information about you. This might include your name, email address, first name, surname and address, and may also include photographs that you provide to us, your username or any other information required to list and register you or your business on [[Business Name]];
 
 			2. Information about your financial transactions. If you use our Services for financial transactions, we collect information about the transaction. This includes your payment information, such as your bank account details, credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details.
 
